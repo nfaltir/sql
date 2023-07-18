@@ -1,2 +1,2 @@
 
-* linguist-language=Sql
+*.sql linguist-detectable=true
