@@ -1,1 +1,1 @@
-*.duckdb linguist-detectable=true
+*.sql linguist-detectable=true
