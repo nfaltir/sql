@@ -16,4 +16,3 @@
 - INNER, OUTER, LEFT, RIGHT joins
 
 
-* linguist-language=Sql
