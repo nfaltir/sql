@@ -13,7 +13,10 @@
 - Joining tables
 - INNER, OUTER, LEFT, RIGHT joins
 
+# Cleaning
 
+- basic data cleaning commands
+- great for large datasets where python might be slower
 
 
 
